@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fylo-page/static/css/main.80cccc26.css",
+    "main.js": "/fylo-page/static/js/main.d978538e.js",
+    "index.html": "/fylo-page/index.html",
+    "main.80cccc26.css.map": "/fylo-page/static/css/main.80cccc26.css.map",
+    "main.d978538e.js.map": "/fylo-page/static/js/main.d978538e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80cccc26.css",
+    "static/js/main.d978538e.js"
+  ]
+}
